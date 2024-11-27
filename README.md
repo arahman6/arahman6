@@ -23,7 +23,7 @@
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40" /> </a>
     <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40" /> </a>
-    <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dataiku/dataiku-icon.svg" alt="dataiku" width="40" height="40" /> </a>
+    <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> <img src="https://www.dataiku.com/wp-content/uploads/2023/01/Property-1Teal.svg" alt="dataiku" width="40" height="40" /> </a>
     <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40" /> </a>
     <a href="https://aws.amazon.com/redshift/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="redshift" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
