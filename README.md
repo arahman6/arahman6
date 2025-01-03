@@ -71,6 +71,37 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arahman6&show_icons=true&locale=en" alt="arahman6" /></p>
 
 
+
+
+
+
+### Tech Stack
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3A4F?style=for-the-badge&logo=databricks&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Tools & Achievements
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-00ADD8?style=for-the-badge&logo=githubactions&logoColor=white)
+
+🔹 Built scalable **ETL Pipelines** processing **1 TB/day**  
+🔹 Expert in **Data Modeling** and **Visualization**  
+🔹 Designed **Power BI** dashboards with **DAX**  
+
+
+
+
+
+
+
+
 <!--
 **arahman6/arahman6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
