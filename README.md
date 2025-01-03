@@ -38,7 +38,7 @@
 🔹 Designed **Power BI** dashboards with **DAX**  
 
 
-
+# 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arahman6&show_icons=true&locale=en&layout=compact" alt="arahman6" /></p>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 -->
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 -----------
 
