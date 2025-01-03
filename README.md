@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [www.mdarifrahman.com](https:\\www.mdarifrahman.com)
 
+- 👨‍💻 All of my projects are available at [www.mdarifrahman.com](https://www.mdarifrahman.com)
+
 - 💬 Ask me about **Data engineering, Big data, Business Intelligence**
 
 - 📫 How to reach me **rahman.mdarif32@gmail.com**
