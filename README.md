@@ -87,6 +87,18 @@ Here are some ideas to get you started:
 -->
 
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+-----------
+
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/arahman6/arahman6/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arahman6/arahman6/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/arahman6/arahman6/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
 
 ![snake gif](https://github.com/arahman6/arahman6/blob/output/github-snake.svg)
 
