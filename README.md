@@ -88,6 +88,6 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/arahman6/arahman6/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/arahman6/arahman6/blob/output/github-snake.svg)
 
 
