@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arahman6&label=Profile%20views&color=0e75b6&style=flat" alt="arahman6" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.mdarifrahman.com](https://www.mdarifrahman.com)
-
 - 💬 Ask me about **Data engineering, Big data, Business Intelligence**
 
 - 📫 How to reach me **rahman.mdarif32@gmail.com**
+
+- 👨‍💻 Check out my portfolio website [www.mdarifrahman.com](https://www.mdarifrahman.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
