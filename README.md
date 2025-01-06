@@ -31,8 +31,11 @@
 
 ### Tools & Achievements
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-46C71F?style=for-the-badge&logo=qlik&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-00ADD8?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 🔹 Built scalable **ETL Pipelines** processing **1 TB/day**  
 🔹 Expert in **Data Modeling** and **Visualization**  
